@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate web developer from Italy</h3>
 
 
 
@@ -11,7 +11,7 @@
 
 ## About me
 
-- 🔭 I’m currently working on **university projects**
+- 🔭 I’m currently working on [Kiruna Explorer](https://github.com/angelodusba/se2-24-14-Kiruna-Explorer)
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **JS / TS codebases**
 
