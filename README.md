@@ -17,6 +17,7 @@
 
 ## Languages and Tools
 
+#### Languages
 <p align="left">
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img
@@ -31,6 +32,13 @@
       alt="java"
       width="40"
       height="40"
+    /></a>
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
+    alt="kotlin"
+    width="40"
+    height="40"
     /></a>
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
@@ -65,16 +73,32 @@
       height="40"
     /></a>
 </p>
+
+#### Frontend
 <p align="left">
-    <!-- React -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="40"
-          height="40"
-        /></a>
-      <!-- Angular -->
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+  /></a>
+  <!-- Material UI -->
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
+    alt="material-ui"
+    width="40"
+    height="40"
+  /></a>
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg"
+    alt="bootstrap"
+    width="40"
+    height="40"
+  /></a>
+  <!-- Angular -->
+  <a href="https://angular.dev" target="_blank" rel="noreferrer"><img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
       alt="angular"
       width="40"
@@ -87,24 +111,50 @@
       width="40"
       height="40"
     /></a>
+</p>
+
+#### Backend
+<p align="left">
+    <!-- Node -->
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
       width="40"
       height="40"
     /></a>
+    <!-- Spring -->
     <a href="https://spring.io/" target="_blank" rel="noreferrer"><img
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
       alt="spring"
       width="40"
       height="40"
     /></a>
+    <!-- Quarkus -->
+    <a href="https://quarkus.io/" target="_blank" rel="noreferrer"><img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg"
+    alt="quarkus"
+    width="40"
+    height="40"
+    /></a>
+</p>
+
+#### Database
+<p align="left">
+    <!-- PostgreSQL -->
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
       width="40"
       height="40"
     /></a>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+    alt="mongodb"
+    width="40"
+    height="40"
+    /></a>
+    <!-- SQLite -->
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img
       src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
       alt="sqlite"
@@ -112,18 +162,23 @@
       height="40"
     /></a>
 </p>
+
+#### Tools
 <p align="left">
+    <!-- Git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
       width="40"
       height="40"
     /></a>
+    <!-- Docker -->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
       width="40"
       height="40"
     /></a>
+    <!-- Figma -->
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
